@@ -1,0 +1,3 @@
+/home/boba/Documents/OneEye/kozyasearch_app/cmake-build/CMakeFiles/KOZYA.dir
+/home/boba/Documents/OneEye/kozyasearch_app/cmake-build/CMakeFiles/edit_cache.dir
+/home/boba/Documents/OneEye/kozyasearch_app/cmake-build/CMakeFiles/rebuild_cache.dir
